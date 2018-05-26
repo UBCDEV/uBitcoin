@@ -1,7 +1,11 @@
-# uBitcoin - a lite version of Bitcoin optimized for CPU mining using X11 as a proof of work scheme,now in POS stage.
-1 minute block targets
-~21 million total coins.
-0.399 coins per block after 1000 blocks
+# uBitcoin 
+- a lite version of Bitcoin optimized for CPU mining using X11 as a proof of work scheme,now in POS stage.
+
+*1 minute block targets
+
+*21 million total coins
+
+*0.399 coins per block after 1000 blocks
 
 
 # What is uBitcoin?
