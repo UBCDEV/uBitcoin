@@ -4,11 +4,11 @@
 0.399 coins per block after 1000 blocks
 
 
-What is uBitcoin?
+# What is uBitcoin?
 
 uBitcoin is an experimental digital currency that enables instant payments to anyone, anywhere in the world. uBitcoin uses peer-to-peer technology to operate with no central authority: managing transactions and issuing money are carried out collectively by the network. uBitcoin Core is the name of open source software which enables the use of this currency.
 
-Development process
+# Development process
 
 Developers work in their own trees, then submit pull requests when they think their feature or bug fix is ready.
 
@@ -24,6 +24,6 @@ Issues with no commits will be given a similar warning, and closed after 15 days
 
 For more information, as well as an immediately useable, binary version of the uBitcoin Core software, see https://www.ubitcoin.cc, or read the original whitepaper.
 
-License
+# License
 
 uBitcoin Core is released under the terms of the MIT license. See COPYING for more information or see https://opensource.org/licenses/MIT.
